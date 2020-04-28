@@ -10,7 +10,7 @@
 //****************************************************************      00100037
 //ASM    EXEC   PROC=HLASMCLG                                           00110033
 //SYSIN  DD     *                                                       00120042
-         TITLE  'SKELETON ASSEMBLER PROGRAM'                            00130000
+         TITLE  'SIMPLE MATH (PACKED ARITHMETIC)'                       00130000
          PRINT  ON,NODATA,NOGEN                                         00140000
 ******************************************************************      00150000
 *                                                                *      00160000
